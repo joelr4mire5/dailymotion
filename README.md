@@ -1,4 +1,4 @@
-# dailymotion
+# Dailymotion
 
 ## Esquema de archivos
 
@@ -9,7 +9,7 @@ C:.
     └───videos
     
     
-## Sistema de archivos
+## Informacion sobre el contenido
 
 1. archivos_procesados:
   a. userid_allusers: contiene la informacion unificada de los 10 archivos que muestran la informacion del usuario
